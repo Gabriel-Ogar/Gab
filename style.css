@@ -1,0 +1,216 @@
+* html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    background-color: grey;
+}
+
+nav{
+    background-color: white;
+    padding: 3px;
+}
+
+
+ul li{
+    display: inline;
+    margin: 6px;
+    text-align: center;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+.home {
+    background-image: url("lth.jpg");
+    height: 100px;
+    width:100%;
+    padding-top: 15px;
+}
+
+.home h3 {
+    color: white;
+    padding-left: 20px;
+}
+
+.home p {
+    color: white;
+    padding-left: 60px;
+    
+}
+
+.food {
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    padding-top: 3px;
+}
+
+.food h2 {
+    color: blue;
+    padding-left: 136px;
+    text-decoration: underline;
+}
+
+.oha img {
+    height: 50%;
+    width: 50%;
+    padding-left: 80px;
+}
+
+.oha p {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 0px;
+}
+
+.afang img {
+    height: 50%;
+    width: 50%;
+    padding-left: 80px;
+}
+
+.afang p {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 0px;
+}
+
+.okro img {
+    height: 50%;
+    width: 50%;
+    padding-left: 80px;
+}
+
+.okro p {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 0px;
+}
+
+
+.egusi img {
+    height: 50%;
+    width: 50%;
+    padding-left: 80px;
+}
+
+.egusi p {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 0px;
+}
+
+.drinks {
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    padding-top: 3px;
+}
+
+
+
+.drinks h2 {
+    color: blue;
+    padding-left: 136px;
+    text-decoration: underline;
+    
+}
+
+.beer img {
+    height: 50%;
+    width: 50%;
+    padding-left: 80px;
+}   
+
+ .beer p {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 0px;
+}    
+
+
+.rape img {
+    height: 50%;
+    width: 50%;
+    padding-left: 80px;
+} 
+
+
+.wine img {
+    height: 50%;
+    width: 50%;
+    padding-left: 80px;
+}   
+
+.wine p {
+    text-align: center;
+    padding-left:20px;
+    padding-right: 20px;
+    margin-top: 0px;
+}
+
+.grape img {
+    height: 50%;
+    width: 50%;
+    padding-left: 80px;
+}
+
+.grape p {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 0px;
+}
+
+.about {
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}
+
+.about h2 {
+    color: blue;
+    padding-left: 136px;
+    text-decoration: underline;
+}
+
+.about  p {
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: White;
+    height: 100%;
+    width: 100%;
+    padding-bottom: 10px;
+    
+    
+}
+
+footer h2 {
+    padding-top: 5px;
+    text-decoration: underline;
+}
+
+footer p {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+footer h3 {
+    color: yellow;
+}
